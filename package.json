@@ -1,0 +1,15 @@
+{
+  "name": "first-config",
+  "version": "1.0.0",
+  "description": "start webpack exp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "leha",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  }
+}
